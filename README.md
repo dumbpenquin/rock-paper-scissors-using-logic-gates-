@@ -54,12 +54,14 @@ The circuit is split into two sub-circuits:
 ### Part 1 — Game Logic Circuit
 Handles player input and combinational decision-making.
 
-![Game Logic Schematic](circuit-diagram/part_1_schematic.png)
+![Game Logic Schematic](circuit-diagram/part%201%20schematic.png)
 
 ### Part 2 — Counter & Mode Selector Circuit
 Handles score counting, display driving, and automatic game reset.
 
-![Counter & Mode Selector Schematic](circuit-diagram/part_2_schematic.pdf)
+![Counter & Mode Selector Schematic](circuit-diagram/part%202%20schematic.pdf)
+
+
 
 ---
 
