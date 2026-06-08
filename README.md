@@ -1,7 +1,7 @@
 # 🪨📄✂️ Rock–Paper–Scissors — Pure Digital Logic Circuit
 
 > A fully functional two-player Rock–Paper–Scissors game built entirely from logic gates and sequential ICs — **no microprocessor, no microcontroller, no code.**
-
+no microcontroller rock paper scissors,no code rock paper scissors
 ---
 
 ## Overview
@@ -101,4 +101,4 @@ This project demonstrates that a complete, real-time interactive game can be bui
 
 ---
 
-*Built by Group 4 — LCD Project*
+
